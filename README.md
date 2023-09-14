@@ -4,7 +4,7 @@ Demographic Insights: The dashboard offers a comprehensive overview of India's p
 
 Geospatial Analysis: Utilizing Power Bi's Geo Map capabilities, the dashboard includes interactive maps that allow users to visualize population density and Growth patterns across different regions of India. 
 
-Historical Trends: I have Used DAX calculation and prepare Past census data and also Current census data to track changes in population characteristics over time. 
+Historical Trends: I have Used DAX calculation and prepare Past census data and also compare with Current census data to track changes in population characteristics over time. 
 
 [Power Bi Census of India.pdf](https://github.com/DeepDaw/CensusPowerBI/files/12610507/Power.Bi.Census.of.India.pdf)
 
